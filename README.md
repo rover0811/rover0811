@@ -17,9 +17,9 @@
 
 ## Experience
 
-**NAVER LABS** — Robot Data Platform Engineer Intern · 2026.07 ~ Present  
-**Wrtn Technologies** — Data Engineer Intern · 2025.08 ~ 2026.02  
-**Republic of Korea Air Force** — RPA Developer · 2023.05 ~ 2025.02
+**NAVER LABS** | Robot Data Platform Engineer Intern | 2026.07 ~ Present  
+**Wrtn Technologies** | Data Engineer Intern | 2025.08 ~ 2026.02  
+**Republic of Korea Air Force** | RPA Developer | 2023.05 ~ 2025.02
 
 ---
 
@@ -36,9 +36,9 @@
 
 ## Open Source
 
-- **anthropics/claude-code-action** — [PR #1575](https://github.com/anthropics/claude-code-action/pull/1575) · Added GitHub Enterprise Server GraphQL endpoint support
-- **nspady/google-calendar-mcp** — [PR #184](https://github.com/nspady/google-calendar-mcp/pull/184) · Introduced RE2-safe email validation with regression coverage for MCP schemas
-- **collabora/WhisperLive** — [PR #373](https://github.com/collabora/WhisperLive/pull/373) · Added secure WebSocket client support
+- **anthropics/claude-code-action** | [PR #1575](https://github.com/anthropics/claude-code-action/pull/1575) | Added GitHub Enterprise Server GraphQL endpoint support
+- **nspady/google-calendar-mcp** | [PR #184](https://github.com/nspady/google-calendar-mcp/pull/184) | Introduced RE2-safe email validation with regression coverage for MCP schemas
+- **collabora/WhisperLive** | [PR #373](https://github.com/collabora/WhisperLive/pull/373) | Added secure WebSocket client support
 
 ---
 
