@@ -1,4 +1,4 @@
-# Hey, I'm HyunSoo 👋
+# Hey, I'm Hyunsoo 👋
 
 **Data Engineer** · Seoul, Korea · Soongsil University (Software Engineering, exp. 2027.02)
 
